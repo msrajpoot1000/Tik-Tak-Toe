@@ -32,9 +32,16 @@ margin:2%;
     margin:2%;
     color:orangered
 }
+@media (max-width:440px) {
+    .heading{
+        font-size: 3.5vh;
+        text-align: center;
+    }
+}
 
 .description
 {
+    
     height: 50vh;
     border:5px solid white;
     display: flex;
