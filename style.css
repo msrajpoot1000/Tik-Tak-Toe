@@ -28,13 +28,13 @@ margin:2%;
 }
 .heading{
     text-align: center;
-    font-size: 6vh;
+    font-size: 6wh;
     margin:2%;
     color:orangered
 }
 @media (max-width:440px) {
     .heading{
-        font-size: 3.5vh;
+        font-size: 3.5wh;
         text-align: center;
     }
 }
